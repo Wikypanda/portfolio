@@ -1,7 +1,3 @@
-// ============================================
-// VIEW - views/sections/experience.php
-// ============================================
-
 <section class="section experience-section">
     <div class="section-header">
         <svg class="section-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">

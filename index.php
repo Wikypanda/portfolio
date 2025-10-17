@@ -1,7 +1,3 @@
-// ============================================
-// POINT D'ENTRÉE - index.php
-// ============================================
-
 <?php
 require_once 'controllers/PortfolioController.php';
 

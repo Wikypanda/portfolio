@@ -1,7 +1,3 @@
-// ============================================
-// VIEW - views/partials/navigation.php
-// ============================================
-
 <nav class="navigation">
     <div class="nav-container">
         <h1 class="nav-logo"><?php echo htmlspecialchars($data['profile']['name']); ?></h1>

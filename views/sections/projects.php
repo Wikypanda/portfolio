@@ -1,7 +1,3 @@
-// ============================================
-// VIEW - views/sections/projects.php
-// ============================================
-
 <section class="section projects-section">
     <div class="section-header">
         <svg class="section-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
